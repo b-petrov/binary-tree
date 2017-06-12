@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+--><root>
+   <node rollno="1">
+      <name>dinkar</name>
+      <birth>kad</birth>
+      <citizenship_number>dinkar</citizenship_number>
+      <address>85</address>
+      <phone>asdf</phone>
+      <initial_balance>asdfsdf</initial_balance>
+      <account_type>asdfasd</account_type>
+   </node>
+
+
+
+<node rollno="2">
+<name>name</name>
+<birth>brith</birth>
+<citizenship_number>cs_num</citizenship_number>
+<address>address</address>
+<phone>phone</phone>
+<initial_balance>in_bl</initial_balance>
+<account_type>ac_type</account_type>
+</node>
+</root>
